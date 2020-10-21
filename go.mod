@@ -1,4 +1,4 @@
-module github.com/cisco-app-networking/nsm-nse
+module catalinux17.github.io
 
 go 1.14
 
